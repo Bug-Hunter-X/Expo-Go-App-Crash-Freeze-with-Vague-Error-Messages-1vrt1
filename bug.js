@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test your React Native application.  The error message is usually vague and unhelpful. The app may crash or freeze, and there might be no clear indication of what went wrong in the console logs.
